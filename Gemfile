@@ -8,6 +8,7 @@ gem "rails", "~> 7.0.3"
 
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
 gem "sprockets-rails"
+gem 'sassc-rails', '>= 2.1.0'
 
 # Use sqlite3 as the database for Active Record
 gem "sqlite3", "~> 1.4"
@@ -26,6 +27,9 @@ gem "stimulus-rails"
 
 # Build JSON APIs with ease [https://github.com/rails/jbuilder]
 gem "jbuilder"
+
+# Bootstrap Sass Gemfile
+gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
 
 # Use Redis adapter to run Action Cable in production
 # gem "redis", "~> 4.0"
