@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Opis rada aplikacije:
+Aplikacija služi nogometnim agentima kako bi im omgućila unos, pregled, izmjenu i brisanje nogometnih transfera koje su ostvarili.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Postojeći korisnici:
+Email: pero.peric@gmail.com   Password:pero888
+Email: merio.maric@gmail.com   Password:mario888
+Email: ivo.ivic@gmail.com   Password:ivo888
